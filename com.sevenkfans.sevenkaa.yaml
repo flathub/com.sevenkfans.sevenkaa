@@ -16,8 +16,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/lsalzman/enet.git
-        tag: v1.3.17
-        commit: e0e7045b7e056b454b5093cb34df49dc4cee0bee
+        tag: v1.3.18
+        commit: 2662c0de09e36f2a2030ccc2c528a3e4c9e8138a
         x-checker-data:
           type: git
           tag-pattern: ^v([\d.]+)$
@@ -37,8 +37,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/the3dfxdude/7kaa.git
-        tag: v2.15.5
-        commit: 4a164f206f829af146a2e44e1c105f47374aac05
+        tag: v2.15.6
+        commit: 22ad185c3254afe0aa97938df4809dff4aa02135
         x-checker-data:
           type: git
           tag-pattern: ^v([\d.]+)$
