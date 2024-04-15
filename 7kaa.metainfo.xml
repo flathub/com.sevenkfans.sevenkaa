@@ -24,8 +24,14 @@ in August 2009 except for the music which may not be altered or reused elsewhere
   <screenshots>
     <screenshot type="default">
       <image>https://screenshots.debian.net/shrine/screenshot/7573/simage/large-a6de72366cabcabad9ba0386ca71dd82.png</image>
+    </screenshot>
+    <screenshot>
       <image>https://screenshots.debian.net/shrine/screenshot/13966/simage/large-5dbc3002225bd5ed76099673c366c9f5.png</image>
+    </screenshot>
+    <screenshot>
       <image>https://screenshots.debian.net/shrine/screenshot/13967/simage/large-d07b4d2cb3164d95ffc18c15b970cc49.png</image>
+    </screenshot>
+    <screenshot>
       <image>https://screenshots.debian.net/shrine/screenshot/13965/simage/large-ce2b5e6e81520c542633518c4923bd96.png</image>
     </screenshot>
   </screenshots>
@@ -49,4 +55,5 @@ in August 2009 except for the music which may not be altered or reused elsewhere
     <content_attribute id="violence-fantasy">moderate</content_attribute>
     <content_attribute id="social-chat">intense</content_attribute>
   </content_rating>
+  <launchable type="desktop-id">com.sevenkfans.sevenkaa.desktop</launchable>
 </component>
