@@ -49,9 +49,9 @@ in August 2009 except for the music which may not be altered or reused elsewhere
     <release version="v2.14.5" date="2015-05-28" />
   </releases>
   <url type="homepage">https://7kfans.com/</url>
-  <url type="bugtracker">https://github.com/the3dfxdude/7kaa/issues</url>
+  <url type="bugtracker">https://7kfans.com/forums/viewforum.php?f=3</url>
   <url type="help">https://www.7kfans.com/downloads/7kaa-manual.pdf</url>
-  <url type="vcs-browser">https://github.com/the3dfxdude/7kaa</url>
+  <url type="vcs-browser">https://sourceforge.net/p/skfans/7kaa</url>
   <content_rating type="oars-1.1">
     <content_attribute id="violence-fantasy">moderate</content_attribute>
     <content_attribute id="social-chat">intense</content_attribute>
