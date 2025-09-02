@@ -36,9 +36,9 @@ modules:
       - install -Dm 644 7kaa.desktop ${FLATPAK_DEST}/share/applications/${FLATPAK_ID}.desktop
     sources:
       - type: git
-        url: https://github.com/the3dfxdude/7kaa.git
-        tag: v2.15.6
-        commit: 22ad185c3254afe0aa97938df4809dff4aa02135
+        url: https://git.code.sf.net/p/skfans/7kaa
+        tag: v2.15.7
+        commit: dfa4a36f04fbcbc2d76ce603e81b24fcf04ef62a
         x-checker-data:
           type: git
           tag-pattern: ^v([\d.]+)$
