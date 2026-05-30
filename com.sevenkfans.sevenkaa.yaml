@@ -38,10 +38,11 @@ modules:
       - type: git
         url: https://git.code.sf.net/p/skfans/7kaa
         #tag: v2.15.7
-        commit: 44ca8a4cd5bdddaf8e9c8e3927c4880a423f62ef
+        commit: dfa4a36f04fbcbc2d76ce603e81b24fcf04ef62a
         x-checker-data:
           type: git
           tag-pattern: ^v([\d.]+)$
+        tag: v2.15.7
       - type: file
         path: 7kaa.metainfo.xml
       - type: file
